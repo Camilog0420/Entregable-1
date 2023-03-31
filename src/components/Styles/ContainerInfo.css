@@ -1,0 +1,37 @@
+.ContainerInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.ContainerInfo__title {
+    color: #ffffff;
+    text-align: center;
+    font-weight: 400;
+    font-size: 32px;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+}
+
+.ContainerInfo__phrase {
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.33) 100%);
+    border-radius: 35px;
+    width: 452px;
+    height: 245px;
+    padding: 70px 30px;
+    color: var(--purple);
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+.ContainerInfo__author {
+    font-family: 'Fredoka', sans-serif;
+    position: absolute;
+    font-size: 19px;
+    bottom: 100px;
+    text-align: center;
+    bottom: 10px;
+}
