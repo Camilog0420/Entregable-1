@@ -1,8 +1,8 @@
 .Button {
     border-radius: 50%;
     aspect-ratio: 1;
-    position: absolute;
     bottom: 350px;
     cursor: pointer;
     border: none;
+    margin: 3rem;
 }

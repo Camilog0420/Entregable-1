@@ -18,8 +18,8 @@
 .ContainerInfo__phrase {
     background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.33) 100%);
     border-radius: 35px;
-    width: 452px;
-    height: 245px;
+    width: 35rem;
+    height: 50%;
     padding: 70px 30px;
     color: var(--purple);
     font-weight: 400;
